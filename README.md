@@ -11,4 +11,7 @@ Steps in creating a GitHub page:
 4. Go to <GitHub Classroom name>.github.io/<repository name>/
 
 What are your key takeaways from this exercise?
-- 
+- In this exercise, was refreshed with working with the basics of JavaScript. I notable struggle I had was the password validation, especially checking if it was a number. I eventually found a code online that I used as reference, which takes advantage of the fact that numbers do not have lowercase and uppercase equivalents. 
+
+Reference:
+- https://coderrocketfuel.com/article/how-to-check-if-a-character-is-a-letter-using-javascript
